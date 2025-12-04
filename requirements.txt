@@ -1,0 +1,14 @@
+# PDF processing
+PyMuPDF==1.24.4
+
+# Text processing
+regex
+unicodedata2
+
+# OCR (optional)
+pytesseract
+Pillow
+
+# General utilities
+tqdm
+python-dotenv

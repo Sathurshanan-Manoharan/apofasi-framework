@@ -1,0 +1,1 @@
+#which embedding model to use, chunk size, etc.
