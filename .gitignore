@@ -18,7 +18,7 @@ build/
 *.egg-info/
 
 # Local Data
-data/
+#data/
 *.db
 *.sqlite3
 *.log
