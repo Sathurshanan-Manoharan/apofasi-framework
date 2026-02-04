@@ -42,7 +42,7 @@ def process_pdf_folder(input_dir: str, output_dir: str):
         output_path = f"{output_dir}/{cleaned_name}.txt"
         save_raw_text(output_path, text)
 
-        print(f"Saved → {output_path}")
+        print(f"Saved -> {output_path}")
 
 
 if __name__ == "__main__":

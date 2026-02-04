@@ -1,9 +1,0 @@
-# Extracts:
-
-# OVERRULES
-
-# AFFIRMS
-
-# FOLLOWS
-
-# INTERPRETS Section 14(1)
